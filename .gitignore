@@ -1,0 +1,5 @@
+.idea
+_nuxt
+dist
+nginx.htaccess
+*.zip
